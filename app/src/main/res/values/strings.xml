@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas Sensor 2023 AKB IF-5 10120179</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_page_selected">Hello</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_app">MakanKu adalah aplikasi yang menyediakan lokasi tempat makan terdekat, dapat diakses dengan mudah!</string>
+    <string name="nama">Fina Annisa Rahmasari</string>
+    <string name="nim">10120179</string>
+    <string name="kelas">IF-5</string>
+    <string name="email">fina.10120179@mahasiswa.unikom.ac.id</string>
+    <string name="google_map_key">AIzaSyCRhWH3Wf5mHphAqc8GDR00acm_M-d8kmk</string>
+</resources>

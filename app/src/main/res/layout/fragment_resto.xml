@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".RestoFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background"
+        android:padding="20dp">
+
+        <Button
+            android:id="@+id/cariResto"
+            android:layout_width="1000dp"
+            android:layout_height="50dp"
+            android:layout_margin="8dp"
+            android:layout_centerVertical="true"
+            android:text="Find Location"
+            android:fontFamily="sans-serif-condensed"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
+
+    </RelativeLayout>
+
+</FrameLayout>
